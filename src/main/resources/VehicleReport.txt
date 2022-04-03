@@ -1,0 +1,6 @@
+Vehicle has 2 wheels
+Vehicle has 4 wheels
+Vehicle has 10 wheels
+Vehicle has 2 wheels
+PARKING lights on
+RUNNING lights on
